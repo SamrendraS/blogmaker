@@ -1,6 +1,6 @@
-[title]: <> (Varinder Kumar's website)
+[title]: <> (Savita Singh's website)
 [icon]: <> (http://vitalik.ca/images/icon.png)
 [server]: <> (root@vitalik.ca)
 [website_root]: <> (/var/www/html)
-[domain]: <> (https://blogmaker-fxjk.onrender.com/)
+[domain]: <> (https://mom-website-dugv.onrender.com)
 [posts_directory]: <> (posts)
